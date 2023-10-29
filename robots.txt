@@ -36,5 +36,5 @@ Disallow: /*.php
 Disallow: /*?replytocom
 Disallow: /*?turl
 
-Host: greenla-park.site
-Sitemap: http://greenla-park.site/sitemap.xml
+Host: greenville-park-lviv.com.ua
+Sitemap: http://greenville-park-lviv.com.ua/sitemap.xml
